@@ -30,3 +30,24 @@ Whether you're researching a topic, preparing for an exam, or just curious about
 
 ## 📂 Project Structure
 
+---
+
+## 🧠 How It Works
+
+When you run the program, you'll be prompted to choose between:
+
+- `G` → Enter AI mode: Ask anything and get answers from **Gemini AI**.
+- `A` → Enter Article mode *(Coming Soon)*: Search for articles via Google or Wikipedia.
+- Any other key → Invalid choice handler.
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/All-Study-Pack-With-AI.git
+cd All-Study-Pack-With-AI
+
+
