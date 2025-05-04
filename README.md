@@ -46,8 +46,17 @@ When you run the program, you'll be prompted to choose between:
 
 ### 1. Clone the Repository
 
-```bash
+```bash 
 git clone https://github.com/yourusername/All-Study-Pack-With-AI.git
 cd All-Study-Pack-With-AI
+```
+### 2. Install All Modules
+
+```bash
+pip install google-generativeai wikipedia pyautogui
+```
+
+## please Give a Star ⭐ for us!
+
 
 
