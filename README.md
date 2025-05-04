@@ -38,7 +38,7 @@ When you run the program, you'll be prompted to choose between:
 
 - `G` → Enter AI mode: Ask anything and get answers from **Gemini AI**.
 - `A` → Enter Article mode: Search for articles via Google or Wikipedia.
-- # if Article found on wikipedia then it prints or not then it search on google
+- #### if Article found on wikipedia then it prints or not then it search on google
 - Any other key → Invalid choice handler.
 
 ---
