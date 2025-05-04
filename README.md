@@ -1,7 +1,7 @@
 # 📚 All-Study-Pack-With-AI
 
 > **Version:** 1.0 (CLI-Based Only)  
-> **Author:** Rustam  
+> **Author:** Rustam Singh Bhadouriya
 > **Language:** Python 3.13 (more then 3.9)  
 > **Status:** Under Development 🚧
 
@@ -58,6 +58,6 @@ pip install google-generativeai wikipedia pyautogui
 ```
 
 ## please Give a Star ⭐ for us!
-
+### I am Sure that you can build a very large and good project using by small template or logic once try your mind on this
 
 
