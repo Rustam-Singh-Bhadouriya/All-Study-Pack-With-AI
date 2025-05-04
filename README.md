@@ -56,6 +56,11 @@ cd All-Study-Pack-With-AI
 ```bash
 pip install google-generativeai wikipedia pyautogui
 ```
+### 3. Gemini API - Free
+```bash
+https://aistudio.google.com
+```
+<p>Paste it on your browser and create a Free API key</p>
 
 ## please Give a Star ⭐ for us!
 ### I am Sure that you can build a very large and good project using by small template or logic once try your mind on this
