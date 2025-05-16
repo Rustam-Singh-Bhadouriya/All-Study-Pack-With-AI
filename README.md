@@ -48,7 +48,7 @@ When you run the program, you'll be prompted to choose between:
 ### 1. Clone the Repository
 
 ```bash 
-git clone https://github.com/yourusername/All-Study-Pack-With-AI.git
+git clone https://github.com/Rustam-Singh-Bhadouriya/All-Study-Pack-With-AI.git
 cd All-Study-Pack-With-AI
 ```
 ### 2. Install All Modules
