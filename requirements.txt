@@ -1,0 +1,9 @@
+pyttsx3
+webbrower
+speech_recognization
+Google
+Google.genai
+json
+os
+wikipedia 
+request 
