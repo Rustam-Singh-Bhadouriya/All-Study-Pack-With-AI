@@ -9,7 +9,7 @@ def generate(promt):
     client = genai.Client(
         api_key=modules.API_KEY
     )
-    model = "gemini-1.5-flash"
+    model = "gemini-2.5-flash"
     contents = [
         types.Content(
             role="user",
