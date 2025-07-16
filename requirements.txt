@@ -1,4 +1,3 @@
-pyttsx3
 webbrower
 speech_recognization
 Google
