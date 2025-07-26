@@ -1,4 +1,4 @@
-# 📚 All-Study-Pack-With-AI
+# 📚 AI-TEACHER
 
 > **Version:** 1.0 (CLI-Based Only)  
 > **Author:** Rustam Singh Bhadouriya
